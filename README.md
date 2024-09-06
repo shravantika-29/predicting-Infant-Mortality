@@ -24,7 +24,4 @@ Despite progress in reducing infant mortality rates globally, challenges persist
 
 <hr>
 
-Document link:l 
 
-COLAB NOTEBOOK LINK: 
-PRESENTATION LINK:
