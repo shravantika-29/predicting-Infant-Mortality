@@ -22,5 +22,6 @@ Despite progress in reducing infant mortality rates globally, challenges persist
 <li>Compared the results to recommend the best Machine Learning model.
 </ul>
 <hr>
-
+COLAB NOTEBOOK LINK: https://colab.research.google.com/drive/1xGCd5ft6eCF_CFJz4FpjUf8SpPFxsYuh?usp=drive_link
+PRESENTATION LINK:https://drive.google.com/file/d/1u3ych_KxrD0QR-k3p-dy6K_jD07U5Y8u/view?usp=drive_link
 
